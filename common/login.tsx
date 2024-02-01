@@ -72,7 +72,7 @@ export default function PlatformLoginForm() {
     <LoginFormPage
       backgroundImageUrl="/backgroundImage.png"
       logo="/logo.png"
-      title="One XSS"
+      title="NBA"
       subTitle="NBA"
       onFinish={handleSubmit}
     >
