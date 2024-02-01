@@ -12,7 +12,7 @@ export default function Home({ data }: InferGetServerSidePropsType<typeof getSer
   return (
     <>
       <Head>
-        <title>One XSS</title>
+        <title>NBA</title>
       </Head>
       <div
         style={{
